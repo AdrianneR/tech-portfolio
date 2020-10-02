@@ -3,6 +3,9 @@ id: about
 title: About
 ---
 
+Adrianne is currently an Incident Manager for Managed Security Services at Cisco. 
+She enjoys automating and innovating to increase productivity and customer satisfaction. 
+
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
@@ -26,7 +29,5 @@ Grace Hopper Celebration Attendee
 - 2020 Awesome Woman in Technology Award
 
 ## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
+- [LinkedIn](https://www.linkedin.com/in/adrianne-rhodes-157640a5)
+- [GitHub](https://github.com/AdrianneR)
