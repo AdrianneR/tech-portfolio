@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Adrianne Rhodes', // Title for your website.
-    tagline: 'Innovative resolution and customer focused technologist.',
+    tagline: 'Innovative, Perpetual Learner Focused on Customer Success.',
     profilePhoto: 'img/profile.png',
     url: 'https://AdrianneR.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
